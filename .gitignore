@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.py[cod]
+.idea/workspace.xml
+/WhatsApp Image 2026-11-24 at 17.46.14.jpeg
